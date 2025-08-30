@@ -28,7 +28,6 @@
 * [renovatebot](https://github.com/renovatebot/renovate)
 * [greenkeeper](https://greenkeeper.io)
 * [GitLab dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/)
-* [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
 
 # Articles
 * [JAR hell](https://blog.codefx.org/java/jar-hell/)
@@ -62,6 +61,7 @@
 
 # Netflix Engineering talks
 * [Dependency Hell, Monorepos and beyond](https://www.youtube.com/watch?v=VNqmHJtItCs) - Mike McGarr (Netflix) 2017
+* [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
 * [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (DPE Summit 2024)
 
 
