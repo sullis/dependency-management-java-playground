@@ -28,6 +28,7 @@
 * [renovatebot](https://github.com/renovatebot/renovate)
 * [greenkeeper](https://greenkeeper.io)
 * [GitLab dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/)
+* [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
 
 # Articles
 * [JAR hell](https://blog.codefx.org/java/jar-hell/)
