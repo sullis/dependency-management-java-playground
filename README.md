@@ -58,6 +58,7 @@
 * [Surviving Dependency Hell with Maven](https://www.youtube.com/watch?v=oQNpMSyge84) - Robert Scholte and Ray Tsang, JNation 2020
 * [Scala Steward](https://www.youtube.com/watch?v=TTxy_daMPUQ) at VRBO - Jeff Martin (2019)
 * [Dependency hell](https://www.youtube.com/watch?v=GtLZp6DbcE4) - GitHub Satellite May 2020
+* [Dependency Management: The Cause of—and Solution to—All Supply Chain Problems](https://www.youtube.com/watch?v=rG3mdgvZf10) - Open Source Summit North America 2024
 
 # GitHub Actions
 - [dependency-update.yml](https://github.com/micronaut-projects/micronaut-core/blob/master/.github/workflows/dependency-update.yml)
