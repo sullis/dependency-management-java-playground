@@ -31,7 +31,7 @@
 * [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
 
 # Netflix Engineering talks
-* [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (2025)
+* [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (DPE Summit 2024)
 
 # Articles
 * [JAR hell](https://blog.codefx.org/java/jar-hell/)
