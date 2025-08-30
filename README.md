@@ -53,7 +53,7 @@
 
 # Videos
 * [Taming Java Dependencies in 70+ GCP Client Libraries](https://www.youtube.com/watch?v=FsnY-BdgA8M) (Devnexus 2021 Stephanie Wang)
-* [Dependency Hell](https://www.youtube.com/watch?v=VNqmHJtItCs) - Mike McGarr (Netflix)
+* [Dependency Hell, Monorepos and beyond](https://www.youtube.com/watch?v=VNqmHJtItCs) - Mike McGarr (Netflix) 2017
 * [Taming Dependency Hell](https://www.infoq.com/presentations/microservices-dependencies/) - Mike Bryzek
 * [Surviving Dependency Hell with Maven](https://www.youtube.com/watch?v=oQNpMSyge84) - Robert Scholte and Ray Tsang, JNation 2020
 * [Scala Steward](https://www.youtube.com/watch?v=TTxy_daMPUQ) at VRBO - Jeff Martin (2019)
