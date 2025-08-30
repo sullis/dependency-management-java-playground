@@ -30,9 +30,6 @@
 * [GitLab dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/)
 * [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
 
-# Netflix Engineering talks
-* [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (DPE Summit 2024)
-
 # Articles
 * [JAR hell](https://blog.codefx.org/java/jar-hell/)
 * [Dependency verification in Gradle 6.2](https://docs.gradle.org/6.2/userguide/dependency_verification.html)
@@ -57,12 +54,16 @@
 
 # Videos
 * [Taming Java Dependencies in 70+ GCP Client Libraries](https://www.youtube.com/watch?v=FsnY-BdgA8M) (Devnexus 2021 Stephanie Wang)
-* [Dependency Hell, Monorepos and beyond](https://www.youtube.com/watch?v=VNqmHJtItCs) - Mike McGarr (Netflix) 2017
 * [Taming Dependency Hell](https://www.infoq.com/presentations/microservices-dependencies/) - Mike Bryzek
 * [Surviving Dependency Hell with Maven](https://www.youtube.com/watch?v=oQNpMSyge84) - Robert Scholte and Ray Tsang, JNation 2020
 * [Scala Steward](https://www.youtube.com/watch?v=TTxy_daMPUQ) at VRBO - Jeff Martin (2019)
 * [Dependency hell](https://www.youtube.com/watch?v=GtLZp6DbcE4) - GitHub Satellite May 2020
 * [Dependency Management: The Cause of—and Solution to—All Supply Chain Problems](https://www.youtube.com/watch?v=rG3mdgvZf10) - Open Source Summit North America 2024
+
+# Netflix Engineering talks
+* [Dependency Hell, Monorepos and beyond](https://www.youtube.com/watch?v=VNqmHJtItCs) - Mike McGarr (Netflix) 2017
+* [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (DPE Summit 2024)
+
 
 # GitHub Actions
 - [dependency-update.yml](https://github.com/micronaut-projects/micronaut-core/blob/master/.github/workflows/dependency-update.yml)
