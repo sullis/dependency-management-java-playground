@@ -30,6 +30,9 @@
 * [GitLab dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/)
 * [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
 
+# Netflix Engineering talks
+* [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (2025)
+
 # Articles
 * [JAR hell](https://blog.codefx.org/java/jar-hell/)
 * [Dependency verification in Gradle 6.2](https://docs.gradle.org/6.2/userguide/dependency_verification.html)
