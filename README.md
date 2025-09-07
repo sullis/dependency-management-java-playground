@@ -59,6 +59,7 @@
 * [Dependency hell](https://www.youtube.com/watch?v=GtLZp6DbcE4) - GitHub Satellite May 2020
 * [Dependency Management: The Cause of—and Solution to—All Supply Chain Problems](https://www.youtube.com/watch?v=rG3mdgvZf10) - Open Source Summit North America 2024
 * [Surviving Dependency Hell](https://www.youtube.com/watch?v=DeTkADhgfBw) - Ray Tsang / Robert Scholte October 2019
+* [Surviving Dependency Hell with Maven](https://www.youtube.com/watch?v=D5OnERf6cfg)  - Ray Tsang and Robert Scholte July 2020
 
 # Netflix Engineering talks
 * [Dependency Hell, Monorepos and beyond](https://www.youtube.com/watch?v=VNqmHJtItCs) - Mike McGarr (Netflix) 2017
