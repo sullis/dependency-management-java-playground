@@ -63,6 +63,7 @@
 
 # Netflix Engineering talks
 * [Dependency Hell, Monorepos and beyond](https://www.youtube.com/watch?v=VNqmHJtItCs) - Mike McGarr (Netflix) 2017
+* [Dependencies, Distributed Code and Engineering Velocity](https://www.youtube.com/watch?v=k_mPS_1JpXM) - Gradle Summit 2017 - Mike McGarr June 2017
 * [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
 * [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (DPE Summit 2024)
 
