@@ -66,6 +66,7 @@
 * [Dependencies, Distributed Code and Engineering Velocity](https://www.youtube.com/watch?v=k_mPS_1JpXM) - Gradle Summit 2017 - Mike McGarr June 2017
 * [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
 * [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (DPE Summit 2024)
+* [Escaping Dependency Hell](https://www.slideshare.net/slideshow/escaping-dependency-hell-a-deep-dive-into-gradles-dependency-management-features-charlotte-jug-october-2023/262797841) - Roberto Perez Alcolea, Charlotte JUG October 2023
 
 
 # GitHub Actions
