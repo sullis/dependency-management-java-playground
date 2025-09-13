@@ -52,7 +52,6 @@
 * [Why Open Source Dependencies Are Your Blind Spot?](https://resources.whitesourcesoftware.com/blog-whitesource/why-open-source-dependencies-are-your-blind-spot)
 
 # Videos
-* [Taming Java Dependencies in 70+ GCP Client Libraries](https://www.youtube.com/watch?v=FsnY-BdgA8M) (Devnexus 2021 Stephanie Wang)
 * [Taming Dependency Hell](https://www.infoq.com/presentations/microservices-dependencies/) - Mike Bryzek
 * [Surviving Dependency Hell with Maven](https://www.youtube.com/watch?v=oQNpMSyge84) - Robert Scholte and Ray Tsang, JNation 2020
 * [Scala Steward](https://www.youtube.com/watch?v=TTxy_daMPUQ) at VRBO - Jeff Martin (2019)
@@ -67,6 +66,11 @@
 * [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
 * [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (DPE Summit 2024)
 * [Escaping Dependency Hell](https://www.slideshare.net/slideshow/escaping-dependency-hell-a-deep-dive-into-gradles-dependency-management-features-charlotte-jug-october-2023/262797841) - Roberto Perez Alcolea, Charlotte JUG October 2023
+
+# Google Engineering talks
+- [Taming Java Dependencies in 70+ GCP Client Libraries](https://www.youtube.com/watch?v=FsnY-BdgA8M) (Devnexus 2021 Stephanie Wang)
+- [Consistency in OSS libraries: Google's approach](https://events19.linuxfoundation.org/wp-content/uploads/2018/07/Consistency_in_OSS_Libraries.pdf) - Open Source Summit Japan 2019
+ 
 
 
 # GitHub Actions
