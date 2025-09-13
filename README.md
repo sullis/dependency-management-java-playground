@@ -2,7 +2,6 @@
 
 # Build tools
 * [jdeps](https://docs.oracle.com/en/java/javase/11/tools/jdeps.html)
-* [extra-enforcer-rules](http://www.mojohaus.org/extra-enforcer-rules/index.html)
 * [duplicate-finder-maven-plugin](https://github.com/basepom/duplicate-finder-maven-plugin)
 * [versions-maven-plugin](http://www.mojohaus.org/versions-maven-plugin/)
 * [missinglink-plugin](https://github.com/spotify/missinglink)
@@ -17,6 +16,7 @@
 * [dependencyConvergence](https://maven.apache.org/enforcer/enforcer-rules/dependencyConvergence.html) rule
 * [bannedDependencies](https://maven.apache.org/enforcer/enforcer-rules/bannedDependencies.html) rule
 * [requireReleaseDeps](https://maven.apache.org/enforcer/enforcer-rules/requireReleaseDeps.html) rule
+* [extra-enforcer-rules](http://www.mojohaus.org/extra-enforcer-rules/index.html)
  
 
 # OWASP tools
