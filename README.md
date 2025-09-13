@@ -61,8 +61,8 @@
 * [Gradle: smarter dependency downgrades](https://blog.gradle.org/version-downgrade)
 * [Why Open Source Dependencies Are Your Blind Spot?](https://resources.whitesourcesoftware.com/blog-whitesource/why-open-source-dependencies-are-your-blind-spot)
 
-# Videos
-* [Taming Dependency Hell](https://www.infoq.com/presentations/microservices-dependencies/) - Mike Bryzek
+# Presentations
+* [Taming Dependency Hell](https://www.infoq.com/presentations/microservices-dependencies/) - Mike Bryzek (2015)
 * [Surviving Dependency Hell with Maven](https://www.youtube.com/watch?v=oQNpMSyge84) - Robert Scholte and Ray Tsang, JNation 2020
 * [Scala Steward](https://www.youtube.com/watch?v=TTxy_daMPUQ) at VRBO - Jeff Martin (2019)
 * [Dependency hell](https://www.youtube.com/watch?v=GtLZp6DbcE4) - GitHub Satellite May 2020
