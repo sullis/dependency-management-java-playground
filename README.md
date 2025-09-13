@@ -34,6 +34,7 @@
 * [GitLab dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/)
 
 # Articles
+* wikipedia [dependency hell](https://en.wikipedia.org/wiki/Dependency_hell)
 * [JAR hell](https://blog.codefx.org/java/jar-hell/)
 * [Dependency verification in Gradle 6.2](https://docs.gradle.org/6.2/userguide/dependency_verification.html)
 * [Avoiding dependency hell with Gradle 6](https://blog.gradle.org/avoiding-dependency-hell-gradle-6)
