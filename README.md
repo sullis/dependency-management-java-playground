@@ -21,6 +21,7 @@
 # gradle enforcer plugin
 * [code](https://github.com/kordamp/enforcer-gradle-plugin)
 * [guide](https://kordamp.org/enforcer-gradle-plugin/)
+* [banDuplicateClasses](https://kordamp.org/enforcer-gradle-plugin/#_banduplicateclasses) rule
 
 # OWASP tools
 * [DependencyTrack](https://github.com/DependencyTrack/dependency-track)
