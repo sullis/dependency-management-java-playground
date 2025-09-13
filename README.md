@@ -2,8 +2,6 @@
 
 # Build tools
 * [jdeps](https://docs.oracle.com/en/java/javase/11/tools/jdeps.html)
-* [dependencyConvergence](https://maven.apache.org/enforcer/enforcer-rules/dependencyConvergence.html) rule in the maven-enforcer-plugin
-* [bannedDependencies](https://maven.apache.org/enforcer/enforcer-rules/bannedDependencies.html) rule in the maven-enforcer-plugin
 * [extra-enforcer-rules](http://www.mojohaus.org/extra-enforcer-rules/index.html)
 * [duplicate-finder-maven-plugin](https://github.com/basepom/duplicate-finder-maven-plugin)
 * [versions-maven-plugin](http://www.mojohaus.org/versions-maven-plugin/)
@@ -14,6 +12,12 @@
 * [sbt-explicit-dependencies](https://github.com/cb372/sbt-explicit-dependencies)
 * [dependency-tree-diff](https://github.com/JakeWharton/dependency-tree-diff) (Gradle)
 * [dep-tree-diff](https://github.com/wildfly/dep-tree-diff) (Maven)
+
+# maven enforcer plugin
+* [dependencyConvergence](https://maven.apache.org/enforcer/enforcer-rules/dependencyConvergence.html) rule
+* [bannedDependencies](https://maven.apache.org/enforcer/enforcer-rules/bannedDependencies.html) rule
+* [requireReleaseDeps](https://maven.apache.org/enforcer/enforcer-rules/requireReleaseDeps.html) rule
+ 
 
 # OWASP tools
 * [DependencyTrack](https://github.com/DependencyTrack/dependency-track)
