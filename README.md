@@ -14,6 +14,7 @@
 
 # maven enforcer plugin
 * [dependencyConvergence](https://maven.apache.org/enforcer/enforcer-rules/dependencyConvergence.html) rule
+* [banDuplicateClasses](https://www.mojohaus.org/extra-enforcer-rules/banDuplicateClasses.html) rule
 * [bannedDependencies](https://maven.apache.org/enforcer/enforcer-rules/bannedDependencies.html) rule
 * [requireReleaseDeps](https://maven.apache.org/enforcer/enforcer-rules/requireReleaseDeps.html) rule
 * [extra-enforcer-rules](http://www.mojohaus.org/extra-enforcer-rules/index.html)
