@@ -19,7 +19,8 @@
 * [extra-enforcer-rules](http://www.mojohaus.org/extra-enforcer-rules/index.html)
 
 # gradle enforcer plugin
-* [enforcer-gradle-plugin](https://github.com/kordamp/enforcer-gradle-plugin)
+* [code](https://github.com/kordamp/enforcer-gradle-plugin)
+* [guide](https://kordamp.org/enforcer-gradle-plugin/)
 
 # OWASP tools
 * [DependencyTrack](https://github.com/DependencyTrack/dependency-track)
