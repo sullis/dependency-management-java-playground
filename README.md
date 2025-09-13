@@ -6,7 +6,7 @@
 * [versions-maven-plugin](http://www.mojohaus.org/versions-maven-plugin/)
 * [missinglink-plugin](https://github.com/spotify/missinglink)
 * [mima-maven-plugin](https://github.com/kelnos/mima-maven-plugin)
-* [Dependency Management plugin for Gradle](https://docs.spring.io/dependency-management-plugin/docs/current/reference/html/)
+* [Spring Dependency Management plugin for Gradle](https://docs.spring.io/dependency-management-plugin/docs/current/reference/html/)
 * [sbt-updates](https://github.com/rtimush/sbt-updates)
 * [sbt-explicit-dependencies](https://github.com/cb372/sbt-explicit-dependencies)
 * [dependency-tree-diff](https://github.com/JakeWharton/dependency-tree-diff) (Gradle)
