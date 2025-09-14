@@ -61,6 +61,7 @@
 * [Gradle: managing transitive dependencies](https://docs.gradle.org/current/userguide/managing_transitive_dependencies.html)
 * [Gradle: smarter dependency downgrades](https://blog.gradle.org/version-downgrade)
 * [Why Open Source Dependencies Are Your Blind Spot?](https://resources.whitesourcesoftware.com/blog-whitesource/why-open-source-dependencies-are-your-blind-spot)
+* [Comparing transitive dependency version resolution in Rust and Java](https://blog.frankel.ch/dependency-version-resolution-rust-java/)
 
 # Presentations
 * [Dependency Management for Java applications](https://docs.google.com/presentation/d/1oYAZuGnDbT2OFVZQJ3ws8l_WFTU7dPH0GLob2FEU_TM/edit?usp=sharing) - Sean Sullivan - Community Over Code 2025
