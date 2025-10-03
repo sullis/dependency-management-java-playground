@@ -42,6 +42,7 @@
 # Articles
 * wikipedia [dependency hell](https://en.wikipedia.org/wiki/Dependency_hell)
 * [JAR hell](https://blog.codefx.org/java/jar-hell/)
+* [Avoid dependency hell with Maven BOM (Bill of Material)](https://jdriven.com/blog/2023/10/Maven-bom)
 * [Dependency verification in Gradle 6.2](https://docs.gradle.org/6.2/userguide/dependency_verification.html)
 * [Avoiding dependency hell with Gradle 6](https://blog.gradle.org/avoiding-dependency-hell-gradle-6)
 * [Optional dependencies are not optional](https://blog.gradle.org/optional-dependencies)
