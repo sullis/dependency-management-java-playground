@@ -12,6 +12,9 @@
 * [dependency-tree-diff](https://github.com/JakeWharton/dependency-tree-diff) (Gradle)
 * [dep-tree-diff](https://github.com/wildfly/dep-tree-diff) (Maven)
 
+# automating dependency management
+- [openrewrite recipes](https://docs.openrewrite.org/running-recipes/popular-recipe-guides/automating-maven-dependency-management)
+- 
 # maven enforcer plugin
 * [dependencyConvergence](https://maven.apache.org/enforcer/enforcer-rules/dependencyConvergence.html) rule
 * [banDuplicateClasses](https://www.mojohaus.org/extra-enforcer-rules/banDuplicateClasses.html) rule
