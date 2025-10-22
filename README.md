@@ -78,10 +78,11 @@
 * [Surviving Dependency Hell with Maven](https://www.youtube.com/watch?v=D5OnERf6cfg)  - Ray Tsang and Robert Scholte July 2020
 
 # Netflix Engineering talks
+* [From Lag To Lightning: Transforming Dependency Update Timelines](https://www.youtube.com/watch?v=T_9GLnuoDHo) - Aubrey Chipman and Roberto Perez Alcolea (DPE Summit 2025)
 * [Dependency Hell, Monorepos and beyond](https://www.youtube.com/watch?v=VNqmHJtItCs) - Mike McGarr (Netflix) 2017
 * [Dependencies, Distributed Code and Engineering Velocity](https://www.youtube.com/watch?v=k_mPS_1JpXM) - Gradle Summit 2017 - Mike McGarr June 2017
 * [Dependency Management in a Complex World](https://www.youtube.com/watch?v=1tV9SjJpkHo) - Jconf 2022 - Roberto Perez Alcolea (Netflix)
-* [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman & Roberto Perez Alcolea of Netflix (DPE Summit 2024)
+* [Netflix’s Journey to Confident Automated Changes](https://www.youtube.com/watch?v=b3qPzRpb1ic) -  - Aubrey Chipman and Roberto Perez Alcolea of Netflix (DPE Summit 2024)
 * [Escaping Dependency Hell](https://www.slideshare.net/slideshow/escaping-dependency-hell-a-deep-dive-into-gradles-dependency-management-features-charlotte-jug-october-2023/262797841) - Roberto Perez Alcolea, Charlotte JUG October 2023
 
 # Google Engineering talks
