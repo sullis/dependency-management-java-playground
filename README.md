@@ -68,7 +68,8 @@
 * [Comparing transitive dependency version resolution in Rust and Java](https://blog.frankel.ch/dependency-version-resolution-rust-java/)
 
 # Presentations
-* [Dependency Management for Java applications](https://docs.google.com/presentation/d/1oYAZuGnDbT2OFVZQJ3ws8l_WFTU7dPH0GLob2FEU_TM/edit?usp=sharing) - Sean Sullivan - Community Over Code 2025
+* [Dependency Management for Java applications](https://docs.google.com/presentation/d/1WEhCQeMAcmQd684w9cDH-2RoUKolmz9489UBQGE4ZGE/edit?usp=sharing) - Sean Sullivan - Portland Java User Group - November 2025
+* [Dependency Management for Java applications](https://docs.google.com/presentation/d/1oYAZuGnDbT2OFVZQJ3ws8l_WFTU7dPH0GLob2FEU_TM/edit?usp=sharing) - Sean Sullivan - Community Over Code NA - September 2025
 * [Taming Dependency Hell](https://www.infoq.com/presentations/microservices-dependencies/) - Mike Bryzek (2015)
 * [Surviving Dependency Hell with Maven](https://www.youtube.com/watch?v=oQNpMSyge84) - Robert Scholte and Ray Tsang, JNation 2020
 * [Scala Steward](https://www.youtube.com/watch?v=TTxy_daMPUQ) at VRBO - Jeff Martin (2019)
