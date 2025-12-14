@@ -69,6 +69,7 @@
 
 # Presentations
 * [Devoxx UK: Lessons on How to Escape the Maven Dependency Hell](https://www.infoq.com/news/2023/06/maven-puzzlers-devoxxuk/)
+* [Devoxx UK 2023: Keep your dependencies in check](https://www.youtube.com/watch?v=iMASLm7v1xw)
 * [Dependency Management for Java applications](https://docs.google.com/presentation/d/1xzVtbzpwIDaVEe1Y02u7NXCVu3NuS77LNz04JyWF1D4/edit?usp=sharing) - Sean Sullivan - Seattle Java User Group - 18 November 2025
 * [Dependency Management for Java applications](https://docs.google.com/presentation/d/1WEhCQeMAcmQd684w9cDH-2RoUKolmz9489UBQGE4ZGE/edit?usp=sharing) - Sean Sullivan - Portland Java User Group - 4 November 2025
 * [Dependency Management for Java applications](https://docs.google.com/presentation/d/1oYAZuGnDbT2OFVZQJ3ws8l_WFTU7dPH0GLob2FEU_TM/edit?usp=sharing) - Sean Sullivan - Community Over Code NA - September 2025
